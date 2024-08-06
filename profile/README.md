@@ -1,4 +1,4 @@
-[![RASA Studios](https://pbs.twimg.com/profile_banners/3342136493/1692984693/1500x500)](https://rasastudios.net)
+[![RASA Studios](https://pbs.twimg.com/profile_banners/3342136493/1722631298/1500x500)](https://rasastudios.net)
 
 # We Are RASA Studios
 
